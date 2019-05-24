@@ -1,0 +1,2 @@
+# SnapShotViewAnimationProject
+使用截图完成动画
